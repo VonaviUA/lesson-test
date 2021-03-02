@@ -55,7 +55,9 @@ header {
 // first section
 #main {
   height: 900px;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./images/Rectangle.png);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(./images/Rectangle.png);
   position: relative;
   top: -100px;
 }
+//comment
